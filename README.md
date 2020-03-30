@@ -14,10 +14,10 @@ App structure:
       - Cart
 
 
-#### Here is a Main and Cart:
+#### Here is Main and Cart pages:
 
 
-![RocketshoesMobile](./src/assets/GIFs/RocketshoesMobile.gif "Main and Cart Page")
+<img src="./src/assets/GIFs/RocketshoesMobile.gif" height="500" alt="RocketshoesMobile">
 
 
 
